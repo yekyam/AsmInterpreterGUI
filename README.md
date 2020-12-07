@@ -1,9 +1,9 @@
-#AsmInterpreterGUI  
+# AsmInterpreterGUI  
 
-#Linux  
+# Linux  
 Cd into the directory, then run make  
 
-#Windows  
+# Windows  
 Run the .exe  
 
 Have fun!
