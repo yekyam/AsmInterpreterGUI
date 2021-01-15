@@ -5,5 +5,6 @@ Cd into the directory, then run make
 
 # Windows  
 Run the .exe  
-
-Have fun!
+# Full List of Commands found here: 
+https://github.com/yekyam/AsmInterpreter  
+Have fun!  
